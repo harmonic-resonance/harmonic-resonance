@@ -1,12 +1,12 @@
 from ablog.conf import *
-import . as module
-version = module.__version__
+#  import . as module
+#  version = module.__version__
 
 
-org = ""
-org_name = ""
+org = "HARMONIC resonance"
+org_name = "harmonic-resonance"
 
-repo = ""
-repo_name = ""
+repo = "harmonic-resonance"
+repo_name = "harmonic-resonance"
 
 setup_globals(org, org_name, repo, repo_name)
