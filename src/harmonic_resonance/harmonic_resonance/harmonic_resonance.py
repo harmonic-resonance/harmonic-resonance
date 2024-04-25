@@ -1,0 +1,3 @@
+"""
+harmonic_resonance
+"""
